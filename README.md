@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Denys
 
-<!--
-**SEDENYS/SEDENYS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused developer with a passion for building clean, scalable systems and solving real-world problems with code.
 
-Here are some ideas to get you started:
+🎓 Computer Science graduate  
+📍 Based in Toronto  
+💻 Backend & Full Stack Developer  
+🧠 Currently learning AI (Machine Learning & Deep Learning) at Zero To Mastery Academy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Java, JavaScript, SQL, Python  
+**Backend:** Node.js, Express.js  
+**Database:** PostgreSQL  
+**Frontend:** React, TailwindCSS  
+**Tools:** Git, Linux, IntelliJ IDEA, Visual Studio Code  
+
+---
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/denys-semenets)  
+[GitHub](https://github.com/denyssemenets)  
+Email: semenets.de@gmail.com
