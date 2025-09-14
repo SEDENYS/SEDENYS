@@ -22,5 +22,4 @@ I'm a backend-focused developer with a passion for building clean, scalable syst
 ## 📫 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/denys-semenets)  
-[GitHub](https://github.com/denyssemenets)  
 Email: semenets.de@gmail.com
